@@ -1,0 +1,15 @@
+{
+  "name": "blueeagle-ai-gateway-examples",
+  "version": "1.0.0",
+  "description": "Node.js examples for BlueEagle AI Gateway",
+  "type": "module",
+  "main": "chat.js",
+  "scripts": {
+    "start": "node chat.js"
+  },
+  "dependencies": {
+    "openai": "^4.0.0"
+  },
+  "keywords": ["ai-gateway", "openai", "claude", "gemini", "blueeagle"],
+  "license": "MIT"
+}
